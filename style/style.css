@@ -1,0 +1,17 @@
+.product {
+    display: inline-block;
+    margin: auto;
+    padding: auto;
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.logo {
+    width: 26px;
+    height: 26px;
+}
