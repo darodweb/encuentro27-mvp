@@ -1,1 +1,1 @@
-# encuentro27-mvp
+# Encuentro27 - Ecommerce MVP
